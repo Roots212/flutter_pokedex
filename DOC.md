@@ -29,8 +29,12 @@ badges: ^2.0.2
 flutter_svg: ^1.0.3
 
 
-  
+**Screens**:
 
+ 1. Splash Screen![enter image description here](https://i.imgur.com/r3iI8DR.jpg) 
+ 2. Home Screen![enter image description here](https://i.imgur.com/UimHu9l.jpg)
+ 3. Pokemon Detail Page![enter image description here](https://i.imgur.com/OS1dtEE.jpg)
+ 4. Connection Lost State![enter image description here](https://i.imgur.com/B42IyND.jpg)
 **Other  Tools**:
  - Rive was used for creating custom loading indicator.
  - VS Code as a code editor.
